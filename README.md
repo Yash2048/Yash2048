@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yash2048
 - 👀 I’m interested in web developing
-- 🌱 I’m currently learning html and css
+- 🌱 I’m currently learning backend with node and express.js
 - 📫 Reach me at yashraj.ch2048@gmail.com
 
 <!---
