@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yash2048
-- 👀 I’m interested in web developing and android developing
+- 👀 I’m interested in backend and android development
 - 🌱 I’m currently learning react native
 - 📫 Reach me at yashraj.ch2048@gmail.com
 
