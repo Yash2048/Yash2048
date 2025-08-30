@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yash2048
-- 👀 I’m interested in backend and android development
+- 👀 I’m interested in web and android development
 - 🌱 I’m currently learning react native
 - 📫 Reach me at yashraj.ch2048@gmail.com
 
@@ -48,6 +48,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg" height="40" alt="opengl"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"  height="40" alt="kotlin" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxt/nuxt-original.svg" height="40" alt="nuxt"  />
+
 </div>
 
 ### My Stats
