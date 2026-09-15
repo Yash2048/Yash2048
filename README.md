@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Yash2048
-- 👀 I’m interested in web and android development
-- 🌱 I’m currently learning react native
+- 🎓 I'm a CS graduate
+- 👀 I’m interested in web development
+- 🌱 I’m currently relearning every thing from scratch.
 - 📫 Reach me at yashraj.ch2048@gmail.com
 
 ---
